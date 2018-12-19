@@ -1,0 +1,13 @@
+.panel-body{
+    background-color: darkgrey;
+}
+.panel-heading{
+    color: teal;
+}
+a{
+    color: blue;
+}
+.comment h3{
+    color: black;
+    font-weight: 600;
+}
